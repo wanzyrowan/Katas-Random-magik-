@@ -1,2 +1,2 @@
-# Katas-Random-magik-
+# Katas-Random-magik
 Random code challenges.
